@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707596820972",
+    "firebase_url": "https://shop-b2a42.firebaseio.com",
+    "project_id": "shop-b2a42",
+    "storage_bucket": "shop-b2a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707596820972:android:7ae4a9f2ca6ee79a9f60c9",
+        "android_client_info": {
+          "package_name": "cleancodesoft.com.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707596820972-vp040rd2g22ruhfv5kne1s06na8kb0qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cleancodesoft.com.shop",
+            "certificate_hash": "27c99f3e5d488daf99d582545b7328319b1f7b2b"
+          }
+        },
+        {
+          "client_id": "707596820972-ooipb20uv15djkrdu6dlhibt6t2psr53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPT8HhQXhAmK1hYq2tS0fiSEs93EO9Vcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707596820972-ooipb20uv15djkrdu6dlhibt6t2psr53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
